@@ -1,0 +1,124 @@
+{
+  "project_info": {
+    "project_number": "953790768941",
+    "project_id": "and103-ph35992",
+    "storage_bucket": "and103-ph35992.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953790768941:android:49757f4d61f9c0b115d5a4",
+        "android_client_info": {
+          "package_name": "com.example.lab1_PH35992"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANdGv-me_azvjU_rQ-vErz_ZYL5YEqyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953790768941:android:51d475cfadafd66515d5a4",
+        "android_client_info": {
+          "package_name": "com.ph35992.lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANdGv-me_azvjU_rQ-vErz_ZYL5YEqyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953790768941:android:d22973a084c93c1f15d5a4",
+        "android_client_info": {
+          "package_name": "fpoly.thuyltph35992.asm_thuyltph35992"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANdGv-me_azvjU_rQ-vErz_ZYL5YEqyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953790768941:android:f8f9eac0e343418715d5a4",
+        "android_client_info": {
+          "package_name": "fpoly.thuyltph35992.lab1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANdGv-me_azvjU_rQ-vErz_ZYL5YEqyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953790768941:android:f2ba31f58455b06f15d5a4",
+        "android_client_info": {
+          "package_name": "fpoly.thuyltph35992.lab1_2_ph35992"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANdGv-me_azvjU_rQ-vErz_ZYL5YEqyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:953790768941:android:49bf2c22765a75fb15d5a4",
+        "android_client_info": {
+          "package_name": "fpoly.thuyltph35992.lab1_ph35992_ltt"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCANdGv-me_azvjU_rQ-vErz_ZYL5YEqyM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
